@@ -1,6 +1,6 @@
 global.bankname = "CHARANKILLER"
 
-global.banknumber = "09113415286"
+global.banknumber = "2349113415286"
 
 global.bankowner = "CHRKLL"
 
